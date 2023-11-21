@@ -1,0 +1,17 @@
+.form-label{
+    color:gray;
+}
+
+.actionButtons{
+    text-align: right;
+}
+
+
+.actionButtons Button {
+    margin-left:20px;
+}
+
+.sectionDiv{
+    background-color: "#eee";
+    border-radius: ".5rem .5rem 0 0" 
+}
